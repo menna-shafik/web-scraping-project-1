@@ -3,7 +3,7 @@
 This project demonstrates how to scrape **Data Analyst** job listings from **LinkedIn** for positions in **Egypt**. The focus is on extracting job details, including job titles, company names, locations, insights, responsibilities, qualifications, and benefits.
 
 ## Project Overview
-- **Objective**: Scrape LinkedIn job listings for Data Analyst roles in Egypt, as of **April 9, 2025**.
+- **Objective**: Scrape LinkedIn job listings for Data Analyst roles in Egypt, as of **April 8, 2025**.
 - **Output**: CSV files containing job details, insights, and job-specific sections.
 
 ## Files Included
