@@ -1,4 +1,4 @@
-# Web Scraping LinkedIn Jobs: Data Analyst Positions in Egypt (as of 9/4/2025)
+# Web Scraping LinkedIn Jobs: Data Analyst Positions in Egypt (as of 8/4/2025)
 
 This project demonstrates how to scrape **Data Analyst** job listings from **LinkedIn** for positions in **Egypt**. The focus is on extracting job details, including job titles, company names, locations, insights, responsibilities, qualifications, and benefits.
 
